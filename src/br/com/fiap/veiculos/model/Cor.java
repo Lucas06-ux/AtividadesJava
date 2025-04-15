@@ -42,4 +42,5 @@ public class Cor {
     public void setB(int b) {
         this.b = b;
     }
+
 }
